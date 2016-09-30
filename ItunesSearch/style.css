@@ -1,0 +1,29 @@
+.songs-search-result{
+  border:solid;
+  margin-top: 20px;
+  border-color:gray;
+}
+.songs-search-result .label{
+  margin-top: 5px;
+  margin-bottom: 5px;
+  display:inline-block;
+  font-size:14px;
+  color:black;
+  text-align: left;
+}
+body{
+  background-image:url(https://margithealthy.files.wordpress.com/2015/01/white-snow-background-21.jpg);
+}
+form{
+  position:relative;
+  text-align: center;
+  margin-top:20px;
+}
+h1{
+  text-align: center;
+}
+img{
+  float:right;
+  width:100px;
+  height:124px;
+}
